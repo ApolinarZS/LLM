@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE biblioteca SYSTEM "biblioteca.dtd">
+<biblioteca>
+    <libro>
+        <titulo>El Señor de los Anillos</titulo>
+        <autor>J.R.R. Tolkien</autor>
+        <anio>1954</anio>
+    </libro>
+    <libro>
+        <titulo>1984</titulo>
+        <autor>George Orwell</autor>
+        <anio>1949</anio>
+    </libro>
+</biblioteca>
